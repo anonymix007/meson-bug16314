@@ -1,0 +1,7 @@
+[wrap-file]
+directory = windows-rs-74
+
+source_url = https://github.com/microsoft/windows-rs/archive/refs/tags/74.tar.gz
+source_filename = windows-rs-74.tar.gz
+source_hash = 32045bbff59a1eef0ca51c74443b417acea7081a4306df9602449f0597017a7a
+patch_directory = windows-rs

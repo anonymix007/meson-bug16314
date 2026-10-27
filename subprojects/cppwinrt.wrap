@@ -1,0 +1,10 @@
+[wrap-file]
+method = cmake
+source_filename = cppwinrt-3.0.260818.1.tar.gz
+source_hash = 082d4b4b0db1d258a449fe3eda1b394921420cfe21b1e03917b486972bfc2e6f
+source_url = https://github.com/microsoft/cppwinrt/archive/refs/tags/3.0.260818.1.tar.gz
+directory = cppwinrt-3.0.260818.1
+diff_files = cppwinrt/cppwinrt-fix-deps-and-output.diff
+
+[provide]
+program_names = cppwinrt
